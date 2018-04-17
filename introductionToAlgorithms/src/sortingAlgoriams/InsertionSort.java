@@ -1,9 +1,9 @@
 /**   
- * @Package: sortingAlgoriams -- InsertionSort
+ * @Package: introductionToAlgorithms.sortingAlgoriams -- InsertionSort
  * @author: Shane  	Usage: 插入排序
  * @date: 2018年4月1日 下午8:40:49 
  */
-package sortingAlgoriams;
+package introductionToAlgorithms.sortingAlgoriams;
 
 import java.util.Arrays;
 
